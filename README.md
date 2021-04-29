@@ -9,7 +9,7 @@ The project goes through three steps:
 The goal for the ML model is to get the cadastral price average, number of properties and price per square meter as features; the 73 suburbs of Barcelona city
 as the labels and number of examples and predict the monthly rental price average, as the target.
 
-["cadastral price avg.", "num. of properties avg.", "rent price €/m2 avg." x 73 suburbs] --> (prediction) --> [rent price/month avg.]
+["cadastral price avg.", "num. of properties avg.", "rent price €/m2 avg." x 73 suburbs] --> (prediction) --> ["rent price/month avg."]
 
 
 Datasets to use:
