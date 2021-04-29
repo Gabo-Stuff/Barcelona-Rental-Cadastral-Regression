@@ -1,4 +1,4 @@
-# Barcelona-Rent-Cadastral-Regression
+# Barcelona-Rental-Cadastral-Regression
 Extracting a rental and cadastral datasets, analyse and preprocess the data and make prediction with a Linear Regression model using ScikitLearn and Pandas.
 
 The project goes through three steps:
