@@ -11,7 +11,7 @@ as the labels and number of examples and predict the monthly rental price averag
 
 The data structure to feed the model will be:
 
-(suburbs)                cadastral price avg. | num. of properties avg. | rent price €/m2 avg. | prediction |  rent price/month avg.
+(suburbs).               .cadastral price avg. | num. of properties avg. | rent price €/m2 avg. | prediction |  rent price/month avg.
 1.  el Raval                    ...                      ...                      ...          |  ------->  |
 2.  el Barri Gótic
 ...
