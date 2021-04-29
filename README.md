@@ -1,4 +1,4 @@
-# Rent-Cadastral-Regression
+# Barcelona-Rent-Cadastral-Regression
 Extracting two datasets from web, analysing, preprocessing and make prediction with a Linear Regression model using ScikitLearn and Pandas.
 
 The project goes through three steps:
